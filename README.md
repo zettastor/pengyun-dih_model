@@ -1,1 +1,0 @@
-Thrift model for defining the structure and data types of [InstanceHub](https://github.com/zettastor/pengyun-dih_client).
